@@ -40,7 +40,9 @@ I'm Minh Tú, a software engineering student who loves backend development, auto
 </table>
 
 </div>
+
 ---
+
 ## Projects I'm interested in
 
 - Backend systems
