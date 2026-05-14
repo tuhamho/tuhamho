@@ -16,21 +16,30 @@ I'm Minh Tú, a software engineering student who loves backend development, auto
 
 <table>
 <tr>
-<td align="center" width="300">
+<td align="center" width="320">
 
 ### 🎧 Now playing
 
-[![Spotify](https://img.shields.io/badge/Shawn%20Mendes-There's%20Nothing%20Holdin'%20Me%20Back-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/search/Shawn%20Mendes%20There's%20Nothing%20Holdin'%20Me%20Back)
+<a href="https://open.spotify.com/search/Shawn%20Mendes%20There's%20Nothing%20Holdin'%20Me%20Back" target="_blank">
+  <img src="./assets/song.jpg" width="230" />
+</a>
+
+<br>
 
 **Shawn Mendes**  
 *There's Nothing Holdin' Me Back*
+
+<br><br>
+
+<a href="https://open.spotify.com/search/Shawn%20Mendes%20There's%20Nothing%20Holdin'%20Me%20Back" target="_blank">
+  <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
 
 </td>
 </tr>
 </table>
 
 </div>
-
 ## Projects I'm interested in
 
 - Backend systems
