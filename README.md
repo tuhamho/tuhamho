@@ -16,9 +16,10 @@ I'm Minh Tú, a software engineering student who loves backend development, auto
 
 <table>
 <tr>
-<td align="center" width="320">
 
-### 🎧 Now playing
+<td align="center" width="340">
+
+### 🎧 Favorite song
 
 <a href="https://open.spotify.com/search/Shawn%20Mendes%20There's%20Nothing%20Holdin'%20Me%20Back" target="_blank">
   <img src="./assets/song.jpg" width="230" />
@@ -36,6 +37,17 @@ I'm Minh Tú, a software engineering student who loves backend development, auto
 </a>
 
 </td>
+
+<td align="center" width="430">
+
+### 🎵 Recently played
+
+<a href="https://www.last.fm/user/tuhamho" target="_blank">
+  <img src="https://arpy8-pastfm-backend.hf.space/live?user=tuhamho" />
+</a>
+
+</td>
+
 </tr>
 </table>
 
