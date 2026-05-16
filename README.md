@@ -63,6 +63,6 @@ I'm Minh Tú, a software engineering student who loves backend development, auto
 ---
 
 <div align="center">
-  <img src="./assets/2.gif" width="40%" />
+  <img src="./assets/3.gif" width="77%" />
 </div>
 
