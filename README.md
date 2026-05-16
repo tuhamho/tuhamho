@@ -16,67 +16,33 @@ I'm Minh Tú, a software engineering student who loves backend development, auto
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="300">
-
-### 🎧 Favorite song
-
 <a href="https://open.spotify.com/search/Shawn%20Mendes%20There%27s%20Nothing%20Holdin%27%20Me%20Back" target="_blank">
-  <img src="./assets/song.jpg" width="210" />
+  <img src="./assets/song.jpg" width="230" />
 </a>
-
-<br>
-
-**Shawn Mendes**  
-*There's Nothing Holdin' Me Back*
-
-<br><br>
-
-<a href="https://open.spotify.com/search/Shawn%20Mendes%20There%27s%20Nothing%20Holdin%27%20Me%20Back" target="_blank">
-  <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
-
-</td>
-
-<td align="center" width="360">
-
-### 🎵 Recently played
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.last.fm/user/tuhamho" target="_blank">
   <img src="https://arpy8-pastfm-backend.hf.space/live?user=tuhamho" width="300" />
 </a>
-
-</td>
-
-<td align="center" width="300">
-
-### ☀️ Favorite song
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://open.spotify.com/search/OneRepublic%20Sunshine" target="_blank">
-  <img src="./assets/sunshine.jpg" width="210" />
+  <img src="./assets/sunshine.jpg" width="230" />
 </a>
-
-<br>
-
-**OneRepublic**  
-*Sunshine*
 
 <br><br>
 
-<a href="https://open.spotify.com/search/OneRepublic%20Sunshine" target="_blank">
-  <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+<a href="https://open.spotify.com/search/Shawn%20Mendes%20There%27s%20Nothing%20Holdin%27%20Me%20Back" target="_blank">
+  <img src="https://img.shields.io/badge/Shawn%20Mendes-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
-</td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-</tr>
-</table>
+<a href="https://open.spotify.com/search/OneRepublic%20Sunshine" target="_blank">
+  <img src="https://img.shields.io/badge/OneRepublic-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
 
 </div>
-
-
 
 ---
 
