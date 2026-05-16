@@ -33,13 +33,13 @@ I'm Minh Tú, a software engineering student who loves backend development, auto
 <br><br>
 
 <a href="https://open.spotify.com/search/Shawn%20Mendes%20There%27s%20Nothing%20Holdin%27%20Me%20Back" target="_blank">
-  <img src="https://img.shields.io/badge/Shawn%20Mendes-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://open.spotify.com/search/OneRepublic%20Sunshine" target="_blank">
-  <img src="https://img.shields.io/badge/OneRepublic-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
 </div>
