@@ -10,14 +10,7 @@ I'm Minh Tú, a software engineering student who loves backend development, auto
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## 🔗 🎵 Song I listen to
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="340">
+---
 
 ## 🔗 🎵 Song I listen to
 
@@ -82,6 +75,8 @@ I'm Minh Tú, a software engineering student who loves backend development, auto
 </table>
 
 </div>
+
+
 
 ---
 
