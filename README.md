@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Minh Tú, a Software Engineering student at the University of Information Technology, VNU-HCM.  
+I'm Minh Tu, a Software Engineering student at the University of Information Technology, VNU-HCM.  
 I love backend development, automation tools, Linux, and game-related data systems.
 
 - 🔭 I’m currently working on Telegram bots, Google Sheets automation, and backend tools.
