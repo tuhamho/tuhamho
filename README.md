@@ -19,10 +19,19 @@ I'm Minh Tú, a software engineering student who loves backend development, auto
 
 <td align="center" width="340">
 
+## 🔗 🎵 Song I listen to
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="300">
+
 ### 🎧 Favorite song
 
-<a href="https://open.spotify.com/search/Shawn%20Mendes%20There's%20Nothing%20Holdin'%20Me%20Back" target="_blank">
-  <img src="./assets/song.jpg" width="230" />
+<a href="https://open.spotify.com/search/Shawn%20Mendes%20There%27s%20Nothing%20Holdin%27%20Me%20Back" target="_blank">
+  <img src="./assets/song.jpg" width="210" />
 </a>
 
 <br>
@@ -32,18 +41,39 @@ I'm Minh Tú, a software engineering student who loves backend development, auto
 
 <br><br>
 
-<a href="https://open.spotify.com/search/Shawn%20Mendes%20There's%20Nothing%20Holdin'%20Me%20Back" target="_blank">
+<a href="https://open.spotify.com/search/Shawn%20Mendes%20There%27s%20Nothing%20Holdin%27%20Me%20Back" target="_blank">
   <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
 </td>
 
-<td align="center" width="430">
+<td align="center" width="360">
 
 ### 🎵 Recently played
 
 <a href="https://www.last.fm/user/tuhamho" target="_blank">
-  <img src="https://arpy8-pastfm-backend.hf.space/live?user=tuhamho" />
+  <img src="https://arpy8-pastfm-backend.hf.space/live?user=tuhamho" width="300" />
+</a>
+
+</td>
+
+<td align="center" width="300">
+
+### ☀️ Favorite song
+
+<a href="https://open.spotify.com/search/OneRepublic%20Sunshine" target="_blank">
+  <img src="./assets/sunshine.jpg" width="210" />
+</a>
+
+<br>
+
+**OneRepublic**  
+*Sunshine*
+
+<br><br>
+
+<a href="https://open.spotify.com/search/OneRepublic%20Sunshine" target="_blank">
+  <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
 </td>
