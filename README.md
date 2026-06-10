@@ -3,9 +3,9 @@
 I'm Minh Tu, a Software Engineering student at the University of Information Technology, VNU-HCM.  
 I love backend development, automation tools, Linux, and game-related data systems.
 
-- 🔭 I’m currently working on Telegram bots, Google Sheets automation, and backend tools.
-- 🌱 I’m learning Backend Engineering, Data Engineering, Linux, and system design.
-- ⚡ I like building useful tools instead of only reading theory.
+- I’m currently working on Telegram bots, Google Sheets automation, and backend tools.
+- I’m learning Backend Engineering, Data Engineering, Linux, and system design.
+- I like building useful tools instead of only reading theory.
 
 ### Languages & Tools
 
